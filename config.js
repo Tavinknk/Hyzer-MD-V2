@@ -42,12 +42,12 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝`
-global.wm = '𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝'
+global.packname = 'Dms_Owner'
+global.author = `Botz_Cwann`
+global.wm = 'Botz_Cwann'
 global.watermark = wm
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
-global.instagram = 'https://instagram.com/hyzer-stfu'
+global.media = 'https://telegra.ph/file/7268c6f1aaa90315c369.jpg'
+global.instagram = 'https://instagram.com/Botz-stfu'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
